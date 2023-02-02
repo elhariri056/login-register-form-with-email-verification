@@ -41,7 +41,7 @@ CREATE TABLE `register` (
 --
 
 INSERT INTO `register` (`ID`, `Username`, `email`, `Password`, `CodeV`, `verification`) VALUES
-(21, 'Aymane00', 'utchihaitachi00@gmail.com', 'e09c80c42fda55f9d992e59ca6b3307d', 'de85810448660823aed64cdfbc767ea0', 1);
+(21, 'Aymane00', 'utchihaitachi@gmail.com', 'e09c80c42fda55f9d992e59ca6b3307d', 'de85810448660823aed64cdfbc767ea0', 1);
 
 --
 -- Index pour les tables déchargées
